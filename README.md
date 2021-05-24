@@ -1,2 +1,2 @@
 # panda
-test repo
+test repo for git version control
